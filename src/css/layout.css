@@ -1,0 +1,18 @@
+#canvas-root {
+  display: grid;
+  grid-template-columns: 25% 50% 25%;
+}
+
+#canvas-palette {
+  display: grid;
+}
+
+#canvas-container {
+  display: grid;
+}
+
+#canvas-styler {
+  display: grid;
+}
+
+#canvas {}

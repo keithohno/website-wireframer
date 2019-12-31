@@ -1,0 +1,17 @@
+#canvas-root {}
+
+#canvas-palette {
+  border: 1px solid black;
+}
+
+#canvas-container {
+  border: 1px solid black;
+}
+
+#canvas-styler {
+  border: 1px solid black;
+}
+
+#canvas {
+  border: 1px solid black;
+}
